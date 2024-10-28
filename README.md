@@ -19,6 +19,7 @@
 # PRACTICA 2
 
 - Se utilizao el archivo data.zip creado en la practica 1 para el entrenmiento del modelo
+- Se siguieron las isntrucciones: [https://github.com/KENJI777VEI/TAREA-MOD4.git](https://geonort.blogspot.com/2024/10/identificacion-de-sistemas-de-seguridad_17.html)
 - Se utilizo la plataforma de colab, se importo el docuemnto comprimido y se creo el archivo custom.yaml considerado las etiquetas y los nombres de cada uno de los archivos y se importo para su utilizacion.
 - Se ralizaron las configuraciones con 20 lotes y 100 epocas como se muestra en la imagen
 ![](https://github.com/KENJI777VEI/TAREA-MOD4/blob/main/entrenamiento.jpg)
