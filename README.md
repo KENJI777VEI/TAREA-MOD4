@@ -10,6 +10,6 @@ Nombre: Kenji Veizan Lopez
 - Se crearon los repositorios para las imagenes y los labels, distribuyendo 200 imagenes para el entrenamiento y 96 para la validacion
 - Con la  herramienta https://www.makesense.ai/ se realizaron las etiquetas
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/KENJI777VEI/TAREA-MOD4/etiqueta.jpg)
 - Se guardaron y exportaron las anotaciones
 - Al estructurar la carpeta data se realizo la transformacion en formato zip
